@@ -9,7 +9,7 @@
 
 #define VERSION "0.4.0"
 #define EXENAME "cgmlst-dists"
-#define GITHUB_URL "https://github.com/tseemann/cgmlst-dists"
+#define GITHUB_URL "https://github.com/genpat-it/cgmlst-dists-64"
 //#define DEBUG
 
 const int32_t MAX_LINE = 1E5;
